@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /_delen/
+Disallow: /aangeleverd/
+Disallow: /_archief/
+# Sitemap: https://[DOMEIN]/sitemap.xml  (toevoegen zodra het domein vastligt)
